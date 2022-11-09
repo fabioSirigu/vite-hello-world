@@ -1,3 +1,4 @@
+<script></script>
 <template>
       <div class="jumbo">
             <strong>This is a jumbotron!</strong>
